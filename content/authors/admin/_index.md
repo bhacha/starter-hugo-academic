@@ -58,5 +58,3 @@ email: ""
 highlight_name: true
 ---
 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref " "newtab" >}} resumé{{< /staticref >}}.
