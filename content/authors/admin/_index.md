@@ -29,6 +29,6 @@ highlight_name: true
 title: Brandon G. Hacha
 email: ""
 ---
-I graduated from Purdue University Fort Wayne (f.k.a. IPFW) in 2019 with a B.S. in Chemistry. I conducted research there under Dr. Michael Columbia, where I looked at the sol-gel transitions of a complex polysaccharide: gum arabic. This was done using infrared and raman spectroscopy as well as (Ultra)Small-Angle x-ray scattering at the Advanced Photon Source
-
 In 2019, I began graduate school at the University of Wisconsin-Madison, and joined Randy Goldsmith's group in the same year. Since then I have been designing, fabricating, and testing new topological acoustic and photonic crystals. I encourage you to check out some of the links on this site for presentations and publications related to this work.
+
+I graduated from Purdue University Fort Wayne (f.k.a. IPFW) in 2019 with a B.S. in Chemistry. I conducted research there under Dr. Michael Columbia, where I looked at the sol-gel transitions of a complex polysaccharide: gum arabic. This was done using infrared and raman spectroscopy as well as (Ultra)Small-Angle x-ray scattering at the Advanced Photon Source
