@@ -8,11 +8,19 @@ social: []
 organizations:
   - name: University of Wisconsin-Madison
     url: https://www.chem.wisc.edu/users/hacha
-  - name: Wisconsin Quantum Institute
-    url: https://wqi.wisc.edu/students/
+  - name: Goldsmith Group at UW-Madison
+    url: https://goldsmith.chem.wisc.edu/current-group-members/
+  - name: Wisconsin MRSEC
+    url: https://mrsec.wisc.edu/superseeds-seeds/
   - name: Center of Molecular Quantum Transduction
     url: https://isen.northwestern.edu/cmqt
-education: null
+  - name: Wisconsin Quantum Institute
+    url: https://wqi.wisc.edu/students/
+education:
+  courses:
+    - course: B.S. in Chemistry
+      institution: Purdue University Fort Wayne
+      year: 2019
 superuser: true
 highlight_name: true
 title: Brandon G. Hacha
