@@ -1,6 +1,6 @@
 ---
 role: Graduate Student
-avatar_filename: img_2321-2-.jpg
+avatar_filename: avatar.jpg
 bio: "I am currently a graduate student in Randall Goldsmith's lab at
   the  University of Wisconsin-Madison, where I focus on photonics research. "
 interests: null
