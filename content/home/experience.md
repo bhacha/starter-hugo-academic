@@ -2,7 +2,6 @@
 widget: experience
 active: true
 experience: null
-author: admin
 widget_id: Experience
 headless: true
 weight: 40
