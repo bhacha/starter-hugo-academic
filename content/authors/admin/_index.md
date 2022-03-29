@@ -15,7 +15,7 @@ organizations:
     url: https://goldsmith.chem.wisc.edu/current-group-members/
   - name: Wisconsin MRSEC
     url: https://mrsec.wisc.edu/superseeds-seeds/
-  - name: Center of Molecular Quantum Transduction
+  - name: Center for Molecular Quantum Transduction
     url: https://isen.northwestern.edu/cmqt
   - name: Wisconsin Quantum Institute
     url: https://wqi.wisc.edu/students/
